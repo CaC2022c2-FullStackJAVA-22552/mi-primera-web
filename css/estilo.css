@@ -1,0 +1,20 @@
+ol li {
+    color: brown;
+}
+
+#programaCaC {
+    text-align: center;
+}
+
+#programaCaC a {
+    color:rgb(71, 67, 0);
+}
+
+.verde-negrita {
+    color: #5D702E;
+    font-weight: bold;
+}
+
+.rojo {
+    background: rgb(255, 125, 125);
+}
