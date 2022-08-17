@@ -2,6 +2,31 @@ ol li {
     color: brown;
 }
 
+img {
+    display: block;
+}
+
+html {
+    /*font-size: 16px;*/
+    font-size: 18px;
+}
+
+.amarillo {
+    background: #ffff70;
+}
+
+#elTitulo {
+    font-size: 1rem;
+}
+
+#especial {
+    font-size: 1rem;
+}
+
+h1, h2 {
+    display: inline;
+}
+
 #programaCaC {
     text-align: center;
 }
