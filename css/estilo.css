@@ -9,6 +9,7 @@ img {
 html {
     /*font-size: 16px;*/
     font-size: 18px;
+    font-family: 'Roboto Slab', Helvetica, sans-serif;
 }
 
 .amarillo {
@@ -25,6 +26,7 @@ html {
 
 h1, h2 {
     display: inline;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 #programaCaC {
