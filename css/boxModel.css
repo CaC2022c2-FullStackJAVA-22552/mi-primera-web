@@ -5,13 +5,18 @@
     font-family: Arial;
 }
 
-div {
-    margin: 15px;
-    padding: 10px;
+.ingredientes, .pasos {
+    float: left;
+    background-color: rgb(199, 199, 98);;
 }
 
-.fondo-claro div {
-    background-color: rgb(249, 249, 127);;
+.clearfix {
+    overflow: auto;
+}
+
+div, header, footer {
+    margin: 15px;
+    padding: 10px;
 }
 
 .fondo-claro {
